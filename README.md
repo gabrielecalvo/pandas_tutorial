@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabrielecalvo/pandas_tutorial/master)
-
 # Pandas Tutorial
 This tutorial will guide you throught the main feature of *pandas* and test your knowledge on the way.
 
@@ -7,6 +5,10 @@ The tutorial culminates in a Capstone Project where you can test you data proces
 
 The *solutions* folder contains solutions to all exercises and the answer to the given Capstone Project.
 
+# Usage
+If you just want to play around with some of the notebooks, I suggest using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabrielecalvo/pandas_tutorial/master).
+
+In alternative you can use [Colab](https://colab.research.google.com), selecting the GitHub tab and enter `gabrielecalvo/pandas_tutorial` in the search input.
 
 ## Syllabus
 1. Introduction
