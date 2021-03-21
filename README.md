@@ -6,9 +6,9 @@ The tutorial culminates in a Capstone Project where you can test you data proces
 The *solutions* folder contains solutions to all exercises and the answer to the given Capstone Project.
 
 # Usage
-If you just want to play around with some of the notebooks, I suggest using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabrielecalvo/pandas_tutorial/master).
+If you just want to play around with some of the notebooks, I suggest using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabrielecalvo/pandas_tutorial/master). Note: it might take a few minutes to startup but will then give you access to an ephemeral Jupyter environment that has access to all notebooks in this reporitory. As it is ephemeral, once you close the browser all your work will disappear unless you download a copy of it.
 
-In alternative you can use [Colab](https://colab.research.google.com), selecting the GitHub tab and enter `gabrielecalvo/pandas_tutorial` in the search input.
+In alternative you can use [Colab](https://colab.research.google.com), selecting the GitHub tab and enter `gabrielecalvo/pandas_tutorial` in the search input. You will have to select and open each notebook separately, but it will be easier to copy them to your google drive to edit and store.
 
 ## Syllabus
 1. Introduction
